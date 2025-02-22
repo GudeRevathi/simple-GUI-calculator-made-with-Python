@@ -1,16 +1,27 @@
-# simple-GUI-calculator-made-with-Python
-This is a simple GUI calculator made with Python
-# Python-GUI-Calculator
-A simple GUI Calculator using Tkinter in Python.
-<p align='center'>
-  <img src='https://github.com/SaiSwarup27/Python-GUI-Calculator/blob/master/images/Calculator.png'/>
-</p>
+# Project Title
+### GUI-Calculator
+# Overview
+* This simple GUI calculator takes input from the user and performs specified Arithmetic operations and display the result.
+# Built With
+* This is a simple GUI calculator made with Python 3.8(tkinter)
 
-#### How it works?
+# Screenshots
+![calculator](https://user-images.githubusercontent.com/66461307/84568439-2296cb80-ad9d-11ea-919e-c66851c6cb27.PNG)
 
->It has an entrybox that can accept input from the keyboard. Additionally, it also has some buttons which when pressed automatically inserts the corresponding character in the entrybox. After that, when the equal button is clicked, it takes the input from the entrybox and evaluates the result and displayed in entry box.
+# Widgets
+* In this GUI the widgets I have used are
+  * Label
+  * Entry
+  * Button
 
->If any syntax error encountered in the entry box then a pop up message will be displayed saying that syntax error
-<p align='center'>
-  <img src='https://github.com/SaiSwarup27/Python-GUI-Calculator/blob/master/images/ErrorMsg.png' align='center'/>
-</p>
+# Purpose
+* Through this calculator we can perform simple Arithmetic operations like
+  * Addition (+)
+  * Subtraction (-)
+  * Multiplication (*)
+  * Division (/)
+ # Prerequisites
+ * This code will run only on Python3.x
+ * You need to have Python 3.x on your PC, you can [Download here](https://www.python.org/downloads/)
+  # Contributor
+  #### @GudeRevathi
